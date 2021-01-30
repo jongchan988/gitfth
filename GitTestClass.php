@@ -7,6 +7,7 @@ class GitTestClass{
         $array = array_push($default, $array);
         $this->test = $array;
         $this->setUp();
+        echo "fnish";
     }
     private function setUp(){
         echo "setUp";
