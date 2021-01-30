@@ -3,7 +3,7 @@ class GitTestClass{
     private  $test;
     public function __construct($array)
     {
-        $default = [];
+        $defaultssssssss= [];
         $array = array_push($default, $array);
         $this->test = $array;
         $this->setUp();
