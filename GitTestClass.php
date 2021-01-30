@@ -3,8 +3,8 @@ class GitTestClass{
     private  $test;
     public function __construct($array)
     {
-        $default = [];
-        $array = array_push($default, $array);
+        $defaul = [];
+        $array = array_push($defaul, $array);
         $this->test = $array;
         $this->setUp();
     }
