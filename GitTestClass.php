@@ -1,6 +1,7 @@
 <?php
 class GitTestClass{
     private  $test;
+	private $test2;
     public function __construct($array)
     {
         $default = [];
