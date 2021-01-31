@@ -8,6 +8,7 @@ class GitTestClass{
         $this->test = $array;
         $this->setUp();
         echo "fnish";
+        echo "add finish 2";
     }
     private function setUp(){
         echo "setUp";
