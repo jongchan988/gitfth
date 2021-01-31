@@ -17,4 +17,7 @@ class GitTestClass{
     private function setUp(){
         echo "setUp";
     }
+	private function setDown(){
+		echo "setDown";
+	}
 }
