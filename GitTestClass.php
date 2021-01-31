@@ -11,7 +11,8 @@ class GitTestClass{
         echo "add finish 2";
         echo "add finish 3";
         echo "add finish 4";
-    }
+	echo "update projcet test";    
+}
     private function setUp(){
         echo "setUp";
     }
