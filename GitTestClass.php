@@ -10,6 +10,7 @@ class GitTestClass{
         echo "fnish";
         echo "add finish 2";
         echo "add finish 3";
+        echo "add finish 4";
     }
     private function setUp(){
         echo "setUp";
